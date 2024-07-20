@@ -1,6 +1,5 @@
 $(window).on("scroll", function() {
     var scrollTop = $(window).scrollTop();
-    console.log('ok')
     if(scrollTop > 100) {
         $('body').addClass('fixed-header');
     } else {
