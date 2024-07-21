@@ -204,7 +204,7 @@ main {
     z-index: 1;
 }
   
-.home-section .home-intro h6 {
+.home-section .home-intro p {
     font-weight: 600;
     color: var(--dark-color);
     letter-spacing: 3px;
@@ -214,7 +214,7 @@ main {
 }
 
 @media (max-width: 767px) {
-    .home-section .home-intro h6 {
+    .home-section .home-intro p {
         margin: 0 0 20px;
     }
 }
