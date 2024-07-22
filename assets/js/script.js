@@ -11,7 +11,7 @@ $(window).on("scroll", function() {
 
 $(document).ready(function() {
     new Typed('#type-it', {
-        strings: ['Engenheiro de Software', 'Programador de Sistemas', 'FullStack', 'Freelancer'],
+        strings: ['Engenheiro de Software', 'Programador de Sistemas', 'Desenolvimento de sites', 'Freelancer'],
         typeSpeed: 100,
         loop:true
       });
