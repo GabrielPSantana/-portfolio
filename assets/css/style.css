@@ -219,7 +219,7 @@ main {
     }
 }
 
-.home-section .home-intro h1 {
+.home-section .home-intro h4 {
     font-size: 70px;
     font-weight: 600;
     color: var(--dark-color);
@@ -228,19 +228,19 @@ main {
 }
 
 @media (max-width: 1200px) {
-    .home-section .home-intro h1 {
+    .home-section .home-intro h4 {
         font-size: 60px;
     }
 }
 
 @media (max-width: 767px) {
-    .home-section .home-intro h1 {
+    .home-section .home-intro h4 {
         margin: 0 0 25px;
         font-size: 45px;
     }
 }
 
-.home-section .home-intro h1 span {
+.home-section .home-intro h4 span {
     border-bottom: 2px solid #FEC448;
     
 }
@@ -250,7 +250,7 @@ main {
 }
 
 @media (max-width: 767px) {
-    .home-section .home-intro h1 {
+    .home-section .home-intro h4 {
         font-size: 18px;
     }
 }
