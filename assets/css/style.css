@@ -327,7 +327,7 @@ main {
     }
 }
 
-.section-heading h3 {
+.section-heading h2 {
     font-size:50px;
     margin: 0;
     color: var(--dark-color);
@@ -337,14 +337,14 @@ main {
 }
 
 @media(max-width: 991px) {
-    .section-heading h3 {
+    .section-heading h2 {
         font-size: 45px;
 
     }
 }
 
 @media(max-width: 767px) {
-    .section-heading h3 {
+    .section-heading h2 {
         font-size: 38px;
     }
 }
