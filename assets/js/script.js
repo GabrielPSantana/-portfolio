@@ -15,4 +15,6 @@ $(document).ready(function() {
         typeSpeed: 100,
         loop:true
       });
+
+      alert('Atenção: O site está em desenvolvimento. Whatsapp para contato: (75) 99943-7100 ');
 })
